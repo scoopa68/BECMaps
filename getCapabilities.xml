@@ -217,7 +217,7 @@
 				<Title>pevl_returns_by_ld</Title>
 				<Abstract>GH:pevl_returns_by_ld ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸8</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-112.68550834999996" miny="33.46427783100006" maxx="-112.28746613499999" maxy="33.98520231300006"></LatLonBoundingBox>
